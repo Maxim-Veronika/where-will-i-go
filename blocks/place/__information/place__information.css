@@ -1,0 +1,8 @@
+.place__information {
+    margin: 0;
+    padding: 77px 81px 97px 74px;
+    grid-column-start: 2;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

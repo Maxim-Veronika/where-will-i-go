@@ -1,0 +1,9 @@
+.place__image_reverse {
+    grid-column-start: 2;
+    grid-row-start: 1;
+    max-width: 721px;
+    max-height: 600px;
+    width: 100%;
+    object-fit: cover;
+    box-sizing: border-box;
+}

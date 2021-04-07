@@ -1,0 +1,9 @@
+.place {
+    margin: 0;
+    color: #010101;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 602px;
+    font-family: 'Pragmatica', Arial, sans-serif;
+    position: relative;
+}

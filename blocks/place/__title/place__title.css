@@ -1,0 +1,9 @@
+.place__title {
+    margin: 0;
+    max-width: 434px;
+    font-family: 'Pragmatica', Arial, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 34px;
+}

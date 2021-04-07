@@ -1,0 +1,9 @@
+.place__information_reverse {
+    grid-column-start: 1;
+    grid-row-start: 1;
+    padding: 77px 81px 97px;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
