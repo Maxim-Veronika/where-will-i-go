@@ -15,3 +15,12 @@
     src: url("Pragmatica-Bold.woff2") format("woff2"),
          url("Pragmatica-Bold.woff") format("woff");
   }
+
+  @font-face {
+     font-family: 'Pragmatica';
+     font-style:  normal;
+     font-weight: lighter;
+     font-display: swap;
+     src: url("Pragmatica-Light.woff2") format("woff2"),
+          url("Pragmatica-Light.woff") format("woff");
+   }
