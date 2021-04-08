@@ -1,0 +1,12 @@
+.intro {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 100px auto 0;
+}
+
+@media screen and (max-width: 1600px) {
+    .intro {
+        margin: 100px 80px 0;
+    }
+}

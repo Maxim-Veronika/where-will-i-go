@@ -1,0 +1,4 @@
+.quotes__list-item {
+    display: flex;
+    flex-direction: column;
+}
