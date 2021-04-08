@@ -3,5 +3,16 @@
     padding: 0;
     background-color: #F2F2F2;
     margin-top: 148px;
-    margin-bottom: 155px;
+}
+
+@media (max-width: 767px) {
+    .places {
+        margin-top: 20px;
+    }
+}
+
+@media (max-width: 426px) {
+    .places {
+        margin-top: 0;
+    }
 }
