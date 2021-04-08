@@ -4,4 +4,17 @@
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 60px;
+    margin: 0;
+}
+
+@media screen and (max-width: 1023px) {
+    .quotes__list {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .quotes__list {
+        grid-template-columns: 1fr;
+    }
 }
