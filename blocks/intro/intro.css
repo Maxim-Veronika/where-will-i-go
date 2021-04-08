@@ -11,3 +11,17 @@
         margin: 100px 80px 0;
     }
 }
+
+@media screen and (max-width: 1023px) {
+    .intro {
+        margin: 70px 40px 0;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .intro {
+        flex-direction: column-reverse;
+        justify-content: center;
+        margin: 60px 20px 0;
+    }
+}
