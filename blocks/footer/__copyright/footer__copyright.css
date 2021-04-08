@@ -1,3 +1,15 @@
 .footer__copyright {
     font-size: 40px;
 }
+
+@media screen and (max-width: 1023px) {
+    .footer__copyright {
+        font-size: 34px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .footer__copyright {
+        font-size: 26px;
+    }
+}
