@@ -7,3 +7,23 @@
     flex-direction: column;
     justify-content: space-between;
 }
+
+@media (max-width: 1279px) {
+    .place__information_reverse {
+        padding: 67px 71px 87px 64px;
+    }
+}
+
+@media (max-width: 1023px) {
+    .place__information_reverse {
+        padding: 47px 61px 57px 44px;
+    }
+}
+
+@media (max-width: 767px) {
+    .place__information_reverse {
+        padding: 20px 16px 20px 16px;
+        grid-column-start: 1;
+        grid-row-start: 2;
+    }
+}

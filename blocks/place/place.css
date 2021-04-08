@@ -3,7 +3,15 @@
     color: #010101;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 602px;
+    grid-template-rows: calc(50vw/1.2);
     font-family: 'Pragmatica', Arial, sans-serif;
     position: relative;
+    overflow: hidden;
+}
+
+@media (max-width: 767px) {
+    .place {
+        grid-template-columns: 100vw;
+        grid-template-rows: 100vw;
+    }
 }

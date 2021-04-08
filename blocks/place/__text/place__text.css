@@ -12,3 +12,26 @@
 .place__text:last-of-type {
     margin-bottom: 0;
 }
+
+@media (max-width: 1279px) {
+    .place__text {
+        font-size: 12px;
+        line-height: 23px;
+    }
+}
+
+@media (max-width: 1023px) {
+    .place__text {
+        font-size: 11px;
+        line-height: 18px;
+        margin-bottom: 15px;
+    }
+}
+
+/*@media (max-width: 767px) {
+    .place__text {
+        font-size: 10px;
+        line-height: 17px;
+        margin-bottom: 10px;
+    }
+}*/
