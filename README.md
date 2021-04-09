@@ -28,4 +28,5 @@
 
 -----
 
-* Ссылка на GitHub Pages [] /*добавить ссылку из pages*/
+* Ссылка на GitHub Pages: 
+https://maxim-veronika.github.io/where-will-i-go/
