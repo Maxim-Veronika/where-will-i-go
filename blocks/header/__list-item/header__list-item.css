@@ -6,7 +6,7 @@
     margin-right: 0;
 }
 
-@media screen and (max-width: 767px) {
+@media (max-width: 767px) {
     .header__list-item {
         margin-right: 0;
         margin-bottom: 16px;

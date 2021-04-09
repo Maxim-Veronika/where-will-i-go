@@ -6,13 +6,13 @@
     margin-bottom: 145px;
 }
 
-@media screen and (max-width: 1279px) {
+@media (max-width: 1279px) {
     .quotes__title {
         font-size: 34px;
     }
 }
 
-@media screen and (max-width: 1023px) {
+@media (max-width: 1023px) {
     .quotes__title {
         font-size: 26px;
         line-height: 45px;
@@ -20,7 +20,7 @@
     }
 }
 
-@media screen and (max-width: 767px) {
+@media (max-width: 767px) {
     .quotes__title {
         font-size: 25px;
         margin-bottom: 35px;

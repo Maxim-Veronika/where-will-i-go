@@ -5,7 +5,7 @@
     display: flex;
 }
 
-@media screen and (max-width: 1279px) {
+@media (max-width: 1279px) {
     .intro__image {
         max-width: 300px;
         max-height: 300px;
@@ -13,7 +13,7 @@
     }
 }
 
-@media screen and (max-width: 1023px) {
+@media (max-width: 1023px) {
     .intro__image {
         max-width: 200px;
         max-height: 200px;
@@ -21,7 +21,7 @@
     }
 }
 
-@media screen and (max-width: 767px) {
+@media (max-width: 767px) {
     .intro__image {
         margin: 0 auto;
         max-width: 280px;

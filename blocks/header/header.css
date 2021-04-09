@@ -4,19 +4,19 @@
     font-family: 'Pragmatica', Arial, sans-serif;
 }
 
-@media screen and (max-width: 1600px) {
+@media (max-width: 1600px) {
     .header {
         margin: 0 80px;
     }
 }
 
-@media screen and (max-width: 1023px) {
+@media (max-width: 1023px) {
     .header {
         margin: 0 40px;
     }
 }
 
-@media screen and (max-width: 767px) {
+@media (max-width: 767px) {
     .header {
         margin: 0 20px;
     }
