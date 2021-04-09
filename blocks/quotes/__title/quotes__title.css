@@ -1,8 +1,9 @@
 .quotes__title {
     font-size: 42px;
+    line-height: 51px;
     font-weight: bold;
     max-width: 550px;
-    margin-bottom: 100px;
+    margin-bottom: 145px;
 }
 
 @media screen and (max-width: 1279px) {

@@ -1,11 +1,10 @@
 .quotes {
     max-width: 1500px;
-    margin: 150px auto;
 }
 
 @media screen and (max-width: 1600px) {
     .quotes {
-        margin: 150px 80px;
+        margin: 160px 80px;
     }
 }
 
