@@ -1,5 +1,6 @@
 .quotes {
     max-width: 1500px;
+    font-family: 'Pragmatica', Arial, sans-serif;
 }
 
 @media screen and (max-width: 1600px) {
@@ -16,6 +17,12 @@
 
 @media screen and (max-width: 767px) {
     .quotes {
-        margin: 60px 20px;
+        margin: 40px 20px;
+    }
+}
+
+@media screen and (max-width: 424px) {
+    .quotes {
+        margin: 20px 20px;
     }
 }

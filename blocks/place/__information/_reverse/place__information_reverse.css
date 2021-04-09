@@ -22,7 +22,7 @@
 
 @media (max-width: 767px) {
     .place__information_reverse {
-        padding: 20px 16px 20px 16px;
+        padding: 30px 16px 20px 16px;
         grid-column-start: 1;
         grid-row-start: 2;
     }

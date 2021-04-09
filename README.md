@@ -29,4 +29,4 @@
 -----
 
 * Ссылка на GitHub Pages: 
-https://maxim-veronika.github.io/where-will-i-go/
+[https://maxim-veronika.github.io/where-will-i-go/]
